@@ -1,4 +1,4 @@
-#Pemograman kaidah dictionary
+#Pemograman dengan kaidah dictionary
 
 identitas_diri = {'Nama':'Anisa Sulistyaningsih',
                   'Hobi1':'Membaca Novel',
