@@ -15,7 +15,7 @@ identitas_diri = {'Nama':'Anisa Sulistyaningsih',
                   'Makananfavorit2':'Ayam Bakar',
                   'Makananfavorit3':'rendang',
                   'Makananfavorit4':'Indomie Sambal Mata',
-                  'Makananfavorit5':'Steak'
+                  'Makananfavorit5':'Steak Daging'
                   }
 print('Identitas Diri Murni: ', identitas_diri)
 
